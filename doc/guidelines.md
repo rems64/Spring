@@ -19,4 +19,4 @@ There should be as few interactions between modules as possible.
 
 ## Testing
 Development is test-driven. Therefore in order to implement a new feature, tests (grouped in a *set of tests*) have to be implemented first. Once validated, they can only be changed with minor version changes.  
-A *set of tests* groups tests related to one topic (TODO: define *"topic"* more precisely).  
+A *set of tests* groups tests related to one topic (//TODO define *"topic"* more precisely).
