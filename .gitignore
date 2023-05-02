@@ -1,4 +1,8 @@
 .vscode/
+.vs/
+.idea/
 .xmake/
 build/
 dist/
+
+**.spv/
